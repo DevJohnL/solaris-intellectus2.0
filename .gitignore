@@ -1,0 +1,21 @@
+# Ambientes Virtuais e Dependências
+venv/
+.venv/
+node_modules/
+
+# Arquivos de Configuração de Editor
+.vscode/
+
+# Cache do Python
+__pycache__/
+
+# Arquivos de Sistema Operacional
+.DS_Store
+
+# Arquivos de Ambiente (NUNCA ENVIE SENHAS!)
+.env
+*.env
+
+# Dados e cache das nossas ferramentas
+n8n_data/
+supabase/
